@@ -2,7 +2,7 @@
 We are a chain of coffeehouses and roastery services and are trying to digitize our data management processes, especially how our product inventory, customer database, transactions and supplier database is stored and use it to our business advantage. We are interested in knowing how our products perform and improve our relationship with our ingredient supplier as well. We want our database to reflect our core business process and help us maintain the relationship between customers, suppliers and the products that we offer.
 
 ## General Information:
-### Note - we have used a key attribute to auto generate primary keys unique to each table at insertion.
+Note - we have used a key attribute to auto generate primary keys unique to each table at insertion.
 
 1.	Each product is described by a unique product ID, name, price, and category.
 2.	Each store has a unique store ID, name, store revenue, location and operation cost.
@@ -23,7 +23,7 @@ We are a chain of coffeehouses and roastery services and are trying to digitize 
 17.	The OrderDetail and Store are linked through a relationship Belong.
 
 ## Mission statements
-### Currently Terpresso business is witnessing a deteriorating condition of its inventory, as a coffeehouse that has pop up stores, we want to have the following information at our fingertips, so as to evaluate Terpresso business requirements better and optimize profits. In the end, we want Terpresso to venture out further and improve their customer relationship services.
+Currently Terpresso business is witnessing a deteriorating condition of its inventory, as a coffeehouse that has pop up stores, we want to have the following information at our fingertips, so as to evaluate Terpresso business requirements better and optimize profits. In the end, we want Terpresso to venture out further and improve their customer relationship services.
 
 1.	What are the Ranked most and least selling products?
 2.	What are the top 3 most and least profitable products?
